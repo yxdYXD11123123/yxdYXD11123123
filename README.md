@@ -2,6 +2,7 @@
 - 👀 I’m interested in JS、TS、HTML、CSS、React、Vue、Node、Koa、Express、MySQL...
 - 🌱 I’m currently learning 前端
 - 📫 How to reach me：yuanxudong_eng@163.com
+- 我积累了近 300天的学习日志 在 https://github.com/yxdYXD11123123/Frontend-Road
 
 <!---
 yxdYXD11123123/yxdYXD11123123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
