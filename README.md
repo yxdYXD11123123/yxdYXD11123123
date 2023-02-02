@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 袁旭东
 - 👀 I’m interested in JS、TS、HTML、CSS、React、Vue、Node、Koa、Express、MySQL...
-- 🌱 I’m currently learning 前端
+- 🌱 I’m a 前端开发
 - 📫 How to reach me：yuanxudong_eng@163.com
 - 我积累了近 300天的前端学习日志 在 https://github.com/yxdYXD11123123/Frontend-Road
 
